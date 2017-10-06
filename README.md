@@ -1,2 +1,2 @@
 # DMWG-2HDM-whitepaper
-DMWG Whitepaper on 2HDM
+DMWG Whitepaper on 2HDM. Instructions on how to edit the combination of github/gitlab/ShareLatex will follow...
